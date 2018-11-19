@@ -1,8 +1,6 @@
 package com.akshay.kotlinmvp.registration
 
-import android.content.Context
 import android.os.Bundle
-import android.os.Message
 import android.support.v7.app.AppCompatActivity
 import android.widget.Toast
 import com.akshay.kotlinmvp.R
